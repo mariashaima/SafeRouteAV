@@ -1,0 +1,2 @@
+heuristic: euclidean
+safety_weight: 1.0

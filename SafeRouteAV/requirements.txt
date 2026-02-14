@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+networkx
+pyyaml
+gymnasium
+ray[rllib]
+carla
+opencv-python
+pandas
