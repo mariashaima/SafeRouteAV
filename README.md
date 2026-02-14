@@ -1,5 +1,8 @@
 ## 🚘 SafeRouteAV
 Safety-Aware Motion Planning and Reinforcement Learning in CARLA
+
+<img width="850" height="327" alt="image" src="https://github.com/user-attachments/assets/f8ac4d42-8178-4a60-97bf-2ab47697beb3" />
+
 📌 Overview
 
 SafeRouteAV is a modular autonomous driving framework that integrates:
@@ -263,7 +266,7 @@ Multi-Agent adversarial training
 RSS (Responsibility Sensitive Safety) formal model
 
 Scenario generation framework
-<img width="850" height="327" alt="image" src="https://github.com/user-attachments/assets/958b3afb-a82f-433f-9145-9fdc84c8211c" />
+
 
 
 
